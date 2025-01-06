@@ -1,0 +1,91 @@
+{
+	"_comment": " ===== Main Values ===== ",
+	"main_Values": {
+		"element": {
+			"content": "text",
+			"decoration": "line",
+			"content_Target": 1,
+			"href_Target": "2",
+			"href_Type": null
+		}
+	},
+
+	"_comment": " --- Text Values --- ",
+	"text_Values": {
+		"text": {
+			"content": "!!! KLIKNI ZDE !!!",
+			"padding": 50,
+			"position_Top": "to_Display_Units(50)",
+			"position_Left": "to_Display_Units(50)"
+		},
+		"font": {
+			"path": "Ubuntu-B.ttf",
+			"size": 37,
+			"color": "colors.black",
+			"correction_Leading": "size * 0.435"
+		},
+		"line": {
+			"width": 7,
+			"color": "colors.red"
+		},
+		"border": {
+			"width": 10,
+			"color": "colors.black",
+			"background_Color": "colors.white"
+		},
+		"calculated": {
+			"width": null,
+			"height": null,
+			"font_Name": null
+		}
+	},
+
+	"_comment": " --- Timestamp Values --- ",
+	"timestamp_Values": {
+		"text": {
+			"date_Before": "",
+			"time_Before": "",
+			"padding_Bottom": 10,
+			"position_Top": "to_Display_Units(15)",
+			"position_Right": "to_Display_Units(10)"
+		},
+		"font": {
+			"path_Date": "Ubuntu-B.ttf",
+			"path_Time": "Ubuntu-R.ttf",
+			"size_Date": 50,
+			"size_Time": "size_Date * 0.7",
+			"color_Date": "colors.black",
+			"color_Time": "colors.black",
+			"correction_Leading_Date": "size_Date * 0.435",
+			"correction_Leading_Time": "size_Time * 0.435"
+		},
+		"line": {
+			"width": 5,
+			"color": "colors.red",
+			"position_Right": "position_Right",
+			"position_Left": "position_Right"
+		},
+		"calculated": {
+			"width_Date": null,
+			"width_Time": null,
+			"height_Date": null,
+			"height_Time": null,
+			"font_Name_Date": null,
+			"font_Name_Time": null
+		}
+	},
+
+	"_comment": " --- Image Values --- ",
+	"image_Values": {
+		"image": {
+			"path": "image.png",
+			"size": "to_Display_Units(50)",
+			"position_Top": "to_Display_Units(100)",
+			"position_Left": "to_Display_Units(100)"
+		},
+		"calculated": {
+			"width": null,
+			"height": null
+		}
+	}
+}

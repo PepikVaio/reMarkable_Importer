@@ -2,14 +2,13 @@
   "info": {
     "title": "Importer!",
     "version": "1.00",
-    "github_path": "https://github.com/PepikVaio/reMarkable_Importer",
-    "iCloud_path": "",
+    "github_path": "https://github.com/PepikVaio/reMarkable_Importer/blob/main/.language_cs/README_cs.md",
   },
 
 	"welcome": {
     "title": [
       "┃*** Vitejte v Apple Shortcuts! ***",
-      "┃Vkládejte elementy do svého *pdf"
+      "┃Upravujte svě *pdf jako kouzlo"
     ],
 	  "content": [
       "*** Popis: ***",
@@ -17,7 +16,7 @@
       "  * Vložte text, ...",
       "  * Vložte odkazy,....",
       "  * Vložte obrázky,....",
-      "  * Vložte časové razítko na svém reMarkable",
+      "  * Vložte časové razítko přímo na svém reMarkable",
     ]
 	},
 
@@ -28,6 +27,9 @@
     "  * První vydání",
     "  ** ..."
   ],
+
+
+
 
   "menu": {
     "title": "Vyberte styl extrakce!",

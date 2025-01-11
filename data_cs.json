@@ -1,0 +1,71 @@
+{
+  "info": {
+    "title": "Importer!",
+    "version": "1.00",
+    "github_path": "https://github.com/PepikVaio/reMarkable_Importer",
+    "iCloud_path": "",
+  },
+
+	"welcome": {
+    "title": [
+      "┃*** Vitejte v Apple Shortcuts! ***",
+      "┃Vkládejte elementy do svého *pdf"
+    ],
+	  "content": [
+      "*** Popis: ***",
+      "-------------",
+      "  * Vložte text, ...",
+      "  * Vložte odkazy,....",
+      "  * Vložte obrázky,....",
+      "  * Vložte časové razítko na svém reMarkable",
+    ]
+	},
+
+  "news": [
+    "",
+    "*** Novinky verze: ***",
+    "------------------------",
+    "  * První vydání",
+    "  ** ..."
+  ],
+
+  "menu": {
+    "title": "Vyberte styl extrakce!",
+    "page": "strana",
+
+    "01": {
+      "title": "Extrahovat jako text",
+      "content": "Vyextrahuje se prostý text, bez obrázků ..."
+    },
+    "02": {
+      "title": "Extrahovat jako obrázky",
+      "content": "Vzhled pdf se nezmění, obrázky budou zachované ..."
+    },
+    "03": {
+      "title": "Nastavení",
+      "content": "O zkratce, Poslat zpětnou vazbu, Resetovat nastavení ...",
+      "label_01": "O zkratce",
+      "label_02": "Poslat zpětnou vazbu",
+      "label_03": "Přepnout jazyk na Angličtinu",
+      "label_04_01": "Otevírání pomocí jiných aplikací",
+      "label_04_02": "Otevírání pomocí reMarkable aplikace",
+      "label_05": "Resetovat nastavení",
+      "label_06": "Zpět",
+      "content_02_01": "Zařízení:",
+      "content_02_02": "Verze systému:",
+      "content_02_03": [
+        "",
+        "Děkuji za zaslání emailu.",
+        "Pokusím se odpovědět co nejdříve.",
+        ""
+      ]
+    }
+  },
+
+  "replaces": {
+    "dot": ".\n\n  ",
+    "exclamation_mark": "!\n\n  ",
+    "question_mark": "?\n\n  ",
+    "line_break": "\n"
+  }
+}

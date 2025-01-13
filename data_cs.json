@@ -41,14 +41,14 @@
 
 			"decoration": "Border, Line, None",
 			"href_Target": "Document, Web, None",
-			"content_Target": "null"
+			"content_Target": ""
     },
     "02": {
       "title": "Obrázky",
       "content": "Umožňuje vložit obrázek ...",
 			"decoration": "null",
 			"href_Target": "Document, Web, None",
-			"content_Target": "null"
+			"content_Target": null
     },
     "03": {
       "title": "Časové razítko",
@@ -57,10 +57,16 @@
 			"href_Target": "null",
 			"content_Target": "null"
     },
+    "04": {
+      "title": "Uložené nastavení",
+      "content": "",
+			"decoration": "null",
+			"href_Target": "null",
+			"content_Target": "null"
+    },
 
     "99": {
 			"submenu_Install": "Nainstalovat do reMarkable",
-			"submenu_Custom_Settings": "Vlastní nastavení",
 			"": ""
     }
   },

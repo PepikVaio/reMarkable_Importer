@@ -47,10 +47,14 @@
       "title": "Časové razítko",
       "content": "Umožňuje vložit datum a čas ..."
     },
+    "04": {
+      "title": "Custom",
+      "content": "Umožňuje uložení vlastních šablon ..."
+    },
 
 
 
-    "03": {
+    "99": {
       "title": "Nastavení",
       "content": "O zkratce, Poslat zpětnou vazbu, Resetovat nastavení ...",
 

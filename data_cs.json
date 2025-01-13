@@ -38,9 +38,9 @@
     "01": {
       "title": "Text",
       "content": "Umožňuje vložit text ...",
-			"decoration": "Border, Line, None",
+			"decoration": "Border, Line None",
 			"href_Target": ["Document", "Web", "None"],
-			"content_Target": null
+			"content_Target": ["Document", "Web", "None"]
     },
     "02": {
       "title": "Obrázky",

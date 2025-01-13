@@ -43,11 +43,15 @@
     },
     "02": {
       "title": "Obrázky",
-      "content": "Umožňuje vložit obrázek ..."
+      "content": "Umožňuje vložit obrázek ...",
+			"decoration": null,
+			"href_Target": ["Document", "Web", "None"]
     },
     "03": {
       "title": "Časové razítko",
-      "content": "Umožňuje vložit datum a čas ..."
+      "content": "Umožňuje vložit datum a čas ...",
+			"decoration": ["Line", "None"],
+			"href_Target": null
     },
 
     "99": {

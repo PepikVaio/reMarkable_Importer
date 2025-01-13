@@ -46,7 +46,7 @@
     "02": {
       "title": "Obrázky",
       "content": "Umožňuje vložit obrázek ...",
-			"decoration": null,
+			"decoration": "null",
 			"href_Target": "Document, Web, None",
 			"content_Target": "null"
     },

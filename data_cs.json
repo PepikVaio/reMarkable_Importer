@@ -47,14 +47,10 @@
       "title": "Časové razítko",
       "content": "Umožňuje vložit datum a čas ..."
     },
-    "04": {
-      "title": "Custom",
-      "content": "Umožňuje uložení vlastních šablon ..."
-    },
-
-
 
     "99": {
+			"submenu_Install": "Nainstalovat do reMarkable",
+			"submenu_Custom_Settings": "Vlastní nastavení",
 			"": ""
     }
   },

@@ -41,21 +41,21 @@
 
 			"decoration": "Border, Line, None",
 			"href_Target": "Document, Web, None",
-			"content_Target": "none"
+			"content_Target": "None"
     },
     "02": {
       "title": "Obrázky",
       "content": "Umožňuje vložit obrázek ...",
 			"decoration": null,
 			"href_Target": "Document, Web, None",
-			"content_Target": "none"
+			"content_Target": "None"
     },
     "03": {
       "title": "Časové razítko",
       "content": "Umožňuje vložit datum a čas ...",
 			"decoration": "Line, None",
 			"href_Target": null,
-			"content_Target": "none"
+			"content_Target": "None"
     },
 
     "99": {

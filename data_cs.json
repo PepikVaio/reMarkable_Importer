@@ -38,8 +38,8 @@
     "01": {
       "title": "Text",
       "content": "Umožňuje vložit text ...",
-			"decoration": [Border, Line, null],
-			"href_Target": [Document, Web, null]
+			"decoration": ["Border", "Line", "None"],
+			"href_Target": ["Document", "Web", "None"]
     },
     "02": {
       "title": "Obrázky",

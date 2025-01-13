@@ -41,7 +41,7 @@
 
 			"decoration": "Border, Line, None",
 			"href_Target": "Document, Web, None",
-			"content_Target": "None"
+			"content_Target": "null"
     },
     "02": {
       "title": "Obrázky",
@@ -54,7 +54,7 @@
       "title": "Časové razítko",
       "content": "Umožňuje vložit datum a čas ...",
 			"decoration": "Line, None",
-			"href_Target": null,
+			"href_Target": "null",
 			"content_Target": "None"
     },
 

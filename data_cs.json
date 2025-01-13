@@ -36,21 +36,31 @@
     "page": "strana",
 
     "01": {
-      "title": "Extrahovat jako text",
-      "content": "Vyextrahuje se prostý text, bez obrázků ..."
+      "title": "Text",
+      "content": "Umožňuje vložit text ..."
     },
     "02": {
-      "title": "Extrahovat jako obrázky",
-      "content": "Vzhled pdf se nezmění, obrázky budou zachované ..."
+      "title": "Obrázky",
+      "content": "Umožňuje vložit obrázek ..."
     },
+    "03": {
+      "title": "Časové razítko",
+      "content": "Umožňuje vložit datum a čas ..."
+    },
+
+
+
     "03": {
       "title": "Nastavení",
       "content": "O zkratce, Poslat zpětnou vazbu, Resetovat nastavení ...",
+
       "label_01": "O zkratce",
       "label_02": "Poslat zpětnou vazbu",
       "label_03": "Přepnout jazyk na Angličtinu",
+
       "label_04_01": "Otevírání pomocí jiných aplikací",
       "label_04_02": "Otevírání pomocí reMarkable aplikace",
+
       "label_05": "Resetovat nastavení",
       "label_06": "Zpět",
       "content_02_01": "Zařízení:",

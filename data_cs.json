@@ -13,10 +13,10 @@
 	  "content": [
       "*** Popis: ***",
       "-------------",
-      "  * Vložte text, ...",
-      "  * Vložte odkazy,....",
-      "  * Vložte obrázky,....",
-      "  * Vložte časové razítko přímo na svém reMarkable",
+      "  * Vložte text, obrázky, ... ",
+      "  * Vložte odkazy, ...",
+      "  * Nebo časové razítko, ...",
+      "  * A to přímo na svém reMarkable"
     ]
 	},
 
@@ -55,26 +55,7 @@
 
 
     "99": {
-      "title": "Nastavení",
-      "content": "O zkratce, Poslat zpětnou vazbu, Resetovat nastavení ...",
-
-      "label_01": "O zkratce",
-      "label_02": "Poslat zpětnou vazbu",
-      "label_03": "Přepnout jazyk na Angličtinu",
-
-      "label_04_01": "Otevírání pomocí jiných aplikací",
-      "label_04_02": "Otevírání pomocí reMarkable aplikace",
-
-      "label_05": "Resetovat nastavení",
-      "label_06": "Zpět",
-      "content_02_01": "Zařízení:",
-      "content_02_02": "Verze systému:",
-      "content_02_03": [
-        "",
-        "Děkuji za zaslání emailu.",
-        "Pokusím se odpovědět co nejdříve.",
-        ""
-      ]
+			"": ""
     }
   },
 

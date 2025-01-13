@@ -38,21 +38,24 @@
     "01": {
       "title": "Text",
       "content": "Umožňuje vložit text ...",
-			"decoration": "Border, Line, None",
-			"href_Target": ["Document", "Web", "None"],
-			"content_Target": null
+
+			"decoration": "Border, Line, None",    // Ve zkratkách v Card jako Email
+			"href_Target": "Document, Web, None",  // Ve zkratkách v Card jako Email
+			"content_Target": null                 // Ve zkratkách v Card jako Email
     },
     "02": {
       "title": "Obrázky",
       "content": "Umožňuje vložit obrázek ...",
-			"decoration": null,
-			"href_Target": ["Document", "Web", "None"]
+			"decoration": null,                       // Ve zkratkách v Card jako Email
+			"href_Target": "Document, Web, None",     // Ve zkratkách v Card jako Email
+			"content_Target": null                    // Ve zkratkách v Card jako Email
     },
     "03": {
       "title": "Časové razítko",
       "content": "Umožňuje vložit datum a čas ...",
-			"decoration": ["Line", "None"],
-			"href_Target": null
+			"decoration": "Line, None",                   // Ve zkratkách v Card jako Email
+			"href_Target": null,                          // Ve zkratkách v Card jako Email
+			"content_Target": null                        // Ve zkratkách v Card jako Email
     },
 
     "99": {

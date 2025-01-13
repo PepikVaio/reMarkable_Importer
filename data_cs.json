@@ -58,8 +58,8 @@
 			"content_Target": "empty"
     },
     "04": {
-      "title": "Uložené nastavení",
-      "content": "",
+      "title": "Vlastní nastavení",
+      "content": "Seznam vlastních nastavení ...",
 			"decoration": "null",
 			"href_Target": "null",
 			"content_Target": "null"

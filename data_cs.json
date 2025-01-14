@@ -8,13 +8,12 @@
 	"welcome": {
     "title": [
       "┃*** Vitejte v Apple Shortcuts! ***",
-      "┃Upravujte svě *pdf jako kouzlo"
+      "┃Upravujte své *pdf jako kouzlo"
     ],
 	  "content": [
       "*** Popis: ***",
       "-------------",
-      "  * Vložte text, obrázky, ... ",
-      "  * Vložte odkazy, ...",
+      "  * Vložte text, obrázky, odkazy... ",
       "  * Nebo časové razítko, ...",
       "  * A to přímo na svém reMarkable"
     ]

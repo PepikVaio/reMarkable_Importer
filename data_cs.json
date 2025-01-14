@@ -29,9 +29,9 @@
 
   "menu": {
 		"select_Decoration": "Vyberte styl dekorace",
-		"select_Href": "Vyberte styl odkazu",
-		"select_Href_Page": "Zadejte číslo stránky odkazu",
-		"select_Href_Web": "Zadejte název webu",
+		"select_Href_Target": "Vyberte styl odkazu",
+		"select_Href_Target_Page": "Zadejte číslo stránky odkazu",
+		"select_Href_Target_Web": "Zadejte název webu",
 		"select_Content_Target": "Zadejte číslo stránky pro vložení nového obsahu",
 		
     "01": {

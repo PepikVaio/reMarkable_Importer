@@ -27,6 +27,7 @@
 
 
   "menu": {
+		"select_Pdf_Id": "Zadejte ID pdf souboru (nebo nechte prázdné pro poslední upravený dokument)",
 		"select_Decoration": "Vyberte styl dekorace",
 		"select_Href_Target": "Vyberte styl odkazu",
 		"select_Href_Target_Page": "Zadejte číslo stránky odkazu",

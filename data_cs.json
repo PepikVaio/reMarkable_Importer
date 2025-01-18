@@ -72,7 +72,7 @@
   		"custom_Template": {
 				"title": "Vyberte jednu z možností",
     		"template_Add": "+ přidat šablonu",
-    		"template_Delete": "- smazat šablonu",
+    		"template_Delete": "- smazat šablonu/y",
 				"label_01": "Vyberte typ šablony",
 				"label_02": "Zadejte název šablony",
 				"label_03": "Vyberte šablony ke smazání",

@@ -73,8 +73,9 @@
 				"title": "Vyberte jednu z možností",
     		"template_Add": "+ přidat šablonu",
     		"template_Delete": "- smazat šablonu",
-				"label_01": "Zadejte název šablony",
-				"label_02": "Vyberte šablony ke smazání",
+				"label_01": "Vyberte typ šablony",
+				"label_02": "Zadejte název šablony",
+				"label_03": "Vyberte šablony ke smazání",
   		},
     },
 

@@ -1,0 +1,121 @@
+{
+	"_comment_Main_Values": [
+
+		"  ▗▖  ▗▖ ▗▄▖ ▗▄▄▄▖▗▖  ▗▖    ▗▖  ▗▖ ▗▄▖ ▗▖   ▗▖ ▗▖▗▄▄▄▖ ▗▄▄▖  ",
+		"  ▐▛▚▞▜▌▐▌ ▐▌  █  ▐▛▚▖▐▌    ▐▌  ▐▌▐▌ ▐▌▐▌   ▐▌ ▐▌▐▌   ▐▌     ",
+		"  ▐▌  ▐▌▐▛▀▜▌  █  ▐▌ ▝▜▌    ▐▌  ▐▌▐▛▀▜▌▐▌   ▐▌ ▐▌▐▛▀▀▘ ▝▀▚▖  ",
+		"  ▐▌  ▐▌▐▌ ▐▌▗▄█▄▖▐▌  ▐▌     ▝▚▞▘ ▐▌ ▐▌▐▙▄▄▖▝▚▄▞▘▐▙▄▄▖▗▄▄▞▘  ",
+		"  *********************************************************  ",
+
+		"  element_Content        = (text, picture, timestamp)                                       ",
+		"  element_Decoration     = (border, line)               / Pouze text. Timestamp pouze line  ",
+		"  element_Href_Target    = (google.cz, google.com, ...) / Pouze text a picture              ",
+		"  element_Content_Target = (1, 2, 3, ...)               / Pouze text a picture              "
+	],
+
+	"element_Content"       : "picture",
+	"element_Decoration"    : "border",
+	"element_Href_Target"   : "2",
+	"element_Content_Target": 1,
+
+
+
+	"_comment_File_Values": [
+
+		"  ▗▄▄▄▖▗▄▄▄▖▗▖   ▗▄▄▄▖    ▗▖  ▗▖ ▗▄▖ ▗▖   ▗▖ ▗▖▗▄▄▄▖ ▗▄▄▖  ",
+		"  ▐▌     █  ▐▌   ▐▌       ▐▌  ▐▌▐▌ ▐▌▐▌   ▐▌ ▐▌▐▌   ▐▌     ",
+    "  ▐▛▀▀▘  █  ▐▌   ▐▛▀▀▘    ▐▌  ▐▌▐▛▀▜▌▐▌   ▐▌ ▐▌▐▛▀▀▘ ▝▀▚▖  ",
+		"  ▐▌   ▗▄█▄▖▐▙▄▄▖▐▙▄▄▖     ▝▚▞▘ ▐▌ ▐▌▐▙▄▄▖▝▚▄▞▘▐▙▄▄▖▗▄▄▞▘  ",
+		"  _______________________________________________________  ",
+
+    " file_Path = Načte se z find_File.sh souboru / Pokud je vyplněné, tak již proběhl proces v reMarkable ale find_File.sh jej vždy přepíše, když je potřeba "
+	],
+
+	"file_Path": "",
+
+
+
+	"_comment_Text_Values": [
+
+		"  ▗▄▄▄▖▗▄▄▄▖▗▖  ▗▖▗▄▄▄▖    ▗▖  ▗▖ ▗▄▖ ▗▖   ▗▖ ▗▖▗▄▄▄▖ ▗▄▄▖  ",
+		"    █  ▐▌    ▝▚▞▘   █      ▐▌  ▐▌▐▌ ▐▌▐▌   ▐▌ ▐▌▐▌   ▐▌     ",
+		"    █  ▐▛▀▀▘  ▐▌    █      ▐▌  ▐▌▐▛▀▜▌▐▌   ▐▌ ▐▌▐▛▀▀▘ ▝▀▚▖  ",
+		"    █  ▐▙▄▄▖▗▞▘▝▚▖  █       ▝▚▞▘ ▐▌ ▐▌▐▙▄▄▖▝▚▄▞▘▐▙▄▄▖▗▄▄▞▘  ",
+    "  ________________________________________________________  ",
+
+    " text_Text_Position_Top  = Zadávat v milimetrech (funkce převede zpět na jednotky)  ",
+    " text_Text_Position_Left = Zadávat v milimetrech (funkce převede zpět na jednotky)  "
+	],
+
+	"text_Text"              : "!!! KLIKNI ZDE !!!",
+	"text_Text_Padding"      : 10,
+	"text_Text_Position_Top" : 50,
+	"text_Text_Position_Left": 40,
+
+	"text_Font_Path" : "Ubuntu-B.ttf",
+	"text_Font_Size" : 50,
+	"text_Font_Color": "red",
+
+	"text_Line_Width": 10,
+	"text_Line_Color": "red",
+
+	"text_Border_Width"           : 30,
+	"text_Border_Color"           : "red",
+	"text_Border_Background_Color": "transparent",
+
+
+
+	"_comment_Timestamp_Values": [
+
+		"  ▗▄▄▄▖▗▄▄▄▖▗▖  ▗▖▗▄▄▄▖ ▗▄▄▖▗▄▄▄▖▗▄▖ ▗▖  ▗▖▗▄▄▖     ▗▖  ▗▖ ▗▄▖ ▗▖   ▗▖ ▗▖▗▄▄▄▖ ▗▄▄▖  ",
+		"    █    █  ▐▛▚▞▜▌▐▌   ▐▌     █ ▐▌ ▐▌▐▛▚▞▜▌▐▌ ▐▌    ▐▌  ▐▌▐▌ ▐▌▐▌   ▐▌ ▐▌▐▌   ▐▌     ",
+		"    █    █  ▐▌  ▐▌▐▛▀▀▘ ▝▀▚▖  █ ▐▛▀▜▌▐▌  ▐▌▐▛▀▘     ▐▌  ▐▌▐▛▀▜▌▐▌   ▐▌ ▐▌▐▛▀▀▘ ▝▀▚▖  ",
+		"    █  ▗▄█▄▖▐▌  ▐▌▐▙▄▄▖▗▄▄▞▘  █ ▐▌ ▐▌▐▌  ▐▌▐▌        ▝▚▞▘ ▐▌ ▐▌▐▙▄▄▖▝▚▄▞▘▐▙▄▄▖▗▄▄▞▘  ",
+		"  _________________________________________________________________________________  ",
+
+		"  timestamp_Text_Date_Before    = Popisek před datum                                       ",
+		"  timestamp_Text_Time_Before    = Popisek před čas                                         ",
+		"  timestamp_Text_Padding_Bottom = Zadávat v milimetrech (funkce převede zpět na jednotky)  ",
+		"  timestamp_Text_Position_Top   = Zadávat v milimetrech (funkce převede zpět na jednotky)  ",
+		"  timestamp_Text_Position_Right = Zadávat v milimetrech (funkce převede zpět na jednotky)  ",
+
+		"  timestamp_Line_Position_Right = Zadávat v milimetrech (funkce převede zpět na jednotky)  ",
+		"  timestamp_Line_Position_Left  = Zadávat v milimetrech (funkce převede zpět na jednotky)  "
+	],
+
+	"timestamp_Text_Before_Date"   : "",
+	"timestamp_Text_Before_Time"   : "",
+	"timestamp_Text_Padding_Bottom": 0,
+	"timestamp_Text_Position_Top"  : 50,
+	"timestamp_Text_Position_Right": 0,
+
+	"timestamp_Font_Path"      : "Ubuntu-B.ttf",
+	"timestamp_Font_Size"      : 50,
+	"timestamp_Font_Color_Date": "black",
+	"timestamp_Font_Color_Time": "black",
+
+	"timestamp_Line_Width"         : 5,
+	"timestamp_Line_Color"         : "red",
+	"timestamp_Line_Position_Right": 0,
+	"timestamp_Line_Position_Left" : 0,
+
+
+
+	"_comment_Image_Values": [
+
+		"  ▗▄▄▄▖▗▖  ▗▖ ▗▄▖  ▗▄▄▖▗▄▄▄▖    ▗▖  ▗▖ ▗▄▖ ▗▖   ▗▖ ▗▖▗▄▄▄▖ ▗▄▄▖  ",
+		"    █  ▐▛▚▞▜▌▐▌ ▐▌▐▌   ▐▌       ▐▌  ▐▌▐▌ ▐▌▐▌   ▐▌ ▐▌▐▌   ▐▌     ",
+		"    █  ▐▌  ▐▌▐▛▀▜▌▐▌▝▜▌▐▛▀▀▘    ▐▌  ▐▌▐▛▀▜▌▐▌   ▐▌ ▐▌▐▛▀▀▘ ▝▀▚▖  ",
+		"  ▗▄█▄▖▐▌  ▐▌▐▌ ▐▌▝▚▄▞▘▐▙▄▄▖     ▝▚▞▘ ▐▌ ▐▌▐▙▄▄▖▝▚▄▞▘▐▙▄▄▖▗▄▄▞▘  ",
+		"  _____________________________________________________________  ",
+
+		"  image_Image_Size          = Zadávat v milimetrech (funkce převede zpět na jednotky)  ",
+		"  image_Image_Position_Top  = Zadávat v milimetrech (funkce převede zpět na jednotky)  ",
+		"  image_Image_Position_Left = Zadávat v milimetrech (funkce převede zpět na jednotky)  "
+	],
+
+	"image_Image_Path"         : "image.png",
+	"image_Image_Size"         : 50,
+	"image_Image_Position_Top" : 50,
+	"image_Image_Position_Left": 40
+}

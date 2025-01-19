@@ -71,7 +71,13 @@ process_Latest_File() {
 		#sed -i 's#"file_Path": ""#"file_Path": "'$latest_file'"#' load_Data.json
 		#echo "Hodnota byla přidána do file_Path v load_Data.json"
 		
-		sed -i 's#"file_Path": "[^"]*"#"file_Path": "'$latest_file'"#' load_Data.json
+#		sed -i 's#"file_Path": "[^"]*"#"file_Path": "'$latest_file'"#' load_Data.json
+#		sed -i 's#"file_Path":"[^"]*"#"file_Path":"'$latest_file'"#' load_Data.json
+		sed -i -E 's#"file_Path"\s*:\s*"[^"]*"#"file_Path": "'$latest_file'"#' load_Data.json
+#		sed -i 's#"file_Path"[[:space:]]*:[[:space:]]*"[^"]*"#"file_Path": "'$latest_file'"#' load_Data.json
+
+
+
 		echo "Hodnota byla nahrazena v file_Path v load_Data.json"
 
 
